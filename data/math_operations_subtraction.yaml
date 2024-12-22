@@ -1,0 +1,8 @@
+- Operation: multiplication
+  A: 3
+  B: 7
+  ExpectedResult: 21
+- Operation: division
+  A: 14
+  B: 2
+  ExpectedResult: 9
